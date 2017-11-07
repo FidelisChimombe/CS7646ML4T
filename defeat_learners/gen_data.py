@@ -4,8 +4,6 @@ template for generating data to fool learners (c) 2016 Tucker Balch
 
 import numpy as np
 import math
-import DTLearner as dt
-import LinRegLearner as lrl
 
 # this function should return a dataset (X and Y) that will work
 # better for linear regression than decision trees
